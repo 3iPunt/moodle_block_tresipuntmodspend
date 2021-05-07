@@ -1,0 +1,13 @@
+.block_tresipuntmodspend .content {
+    text-align: center;
+    overflow: hidden;
+    margin: 0 !important;
+}
+
+.block_tresipuntmodspend >.content a.modspend {
+    padding: 8px 18px;
+    font-size: 16px;
+    white-space: normal;
+    width: 100%;
+    margin: 2px 0;
+}
