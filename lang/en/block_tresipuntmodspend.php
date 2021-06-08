@@ -26,3 +26,6 @@
 $string['pluginname'] = '3IP Mods Pending';
 $string['editingteacher_button'] = 'Tasks pending grading';
 $string['student_button'] = 'Tasks pending to deliver';
+$string['tresipuntmodspend:addinstance'] = 'Add Instance Tresipunt Mods Pending';
+$string['tresipuntmodspend:myaddinstance'] = 'Add My Instance Tresipunt Mods Pending';
+$string['tresipuntmodspend:view'] = 'View Tresipunt Mods Pending';
